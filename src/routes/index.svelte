@@ -1,5 +1,10 @@
+<!--Landing login/register page-->
 <script>
-    console.log("Test <3")
+
 </script>
-<h1>Welcome to Anguish, Adventurer!</h1>
+<svelte:head>
+    <title>Ihtiphal</title>
+</svelte:head>
+
+<h1>Welcome to Ihtiphal, Adventurer!</h1>
 <button>Login</button>
