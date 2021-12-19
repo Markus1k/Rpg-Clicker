@@ -23,7 +23,10 @@
         <button class="bg-gradient-to-r from-purple-500 to-pink-500 rounded-md w-[300px] h-[3rem] text-white md:w-[300px] md:h-[3rem] mt-[9rem] hover:shadow-lg transition ease-in-out duration-300 hover:shadow-pink-500/50">Войти</button>
     
     </div>
-  
+
 
 </div>
 
+<footer class="text-white font-body text-[.8rem] mt-[25rem] text-center">
+    Данный проект находиться в стадии бета тестирования. На нём могут присутствовать ошибки и неточности. 
+</footer>
