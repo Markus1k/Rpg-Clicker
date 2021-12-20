@@ -18,6 +18,7 @@
     height: 100vh;
 }
 
+
 </style>
 
 <div class="font-body  flex justify-center md:h-[25rem] md:w-[25rem] h-[20rem] w-[20rem] mx-auto mt-[15rem] ">
@@ -41,6 +42,6 @@
 
 </div>
 
-<footer class="text-white font-body md:text-[.8rem] text-[.5rem] mt-[5rem] text-center shadow-md md:w-[30rem]  w-[20rem] mx-auto rounded-md select-none">
+<footer class="text-white font-body md:text-[.8rem] text-[.5rem] mt-[5rem] text-center shadow-md md:w-[30rem] animate-wiggle w-[20rem] mx-auto rounded-md select-none">
     Данный проект находиться в стадии бета тестирования. На нём могут присутствовать ошибки и неточности. 
 </footer>
