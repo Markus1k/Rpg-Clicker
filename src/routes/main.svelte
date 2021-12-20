@@ -1,5 +1,5 @@
 <script>
-     import Nav from "./components/nav.svelte";
+     import Nav from "../components/nav.svelte";
 </script>
 <svelte:head>
     <title>Ihtiphal - Main page</title>
