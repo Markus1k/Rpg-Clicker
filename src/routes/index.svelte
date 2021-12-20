@@ -26,15 +26,15 @@
         <form class="mt-[2rem]">
             <div class="field rounded-md">
                 <label for="email">Почта</label>
-                <input type="email" class="w-[300px] md:w-[350px]" name="email"  placeholder="email@mail.com"/>
+                <input type="email" class="w-[300px] md:w-[350px] md:h-[35px]" name="email"  placeholder="email@mail.com"/>
                 
             </div>
             <div class="field rounded-md md:mt-[2rem]">
                 <label for="password" >Пароль</label>
-                <input type="password" class="w-[300px] md:w-[350px]" name="password"  placeholder="password"/>
+                <input type="password" class="w-[300px] md:h-[35px] md:w-[350px]" name="password"  placeholder="password"/>
             </div>
         </form>
-        <button class="bg-gradient-to-r from-purple-500 to-pink-500 rounded-md w-[250px] h-[2.5rem] text-white md:w-[300px] md:h-[3rem] md:mt-[3rem] mt-[1rem] hover:shadow-lg transition ease-in-out duration-300 hover:shadow-pink-500/50">Войти</button>
+        <button class="bg-gradient-to-r from-purple-500 to-pink-500 rounded-md w-[250px] h-[2.5rem] text-white md:w-[300px] md:h-[3rem] md:mt-[2rem] mt-[1rem] hover:shadow-lg transition ease-in-out duration-300 hover:shadow-pink-500/50">Войти</button>
     </div>
  
     
