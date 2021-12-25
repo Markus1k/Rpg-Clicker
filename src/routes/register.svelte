@@ -20,7 +20,7 @@
 <svelte:head>
     <title>Зарегистрироваться</title>
 </svelte:head>
-<div class="font-body  flex justify-center md:h-[28rem] md:w-[125rem] h-[23rem] w-[20rem] mx-auto mt-[15rem] ">
+<div class="font-body  flex justify-center md:h-[28rem] md:w-[25rem] h-[23rem] w-[20rem] mx-auto mt-[5rem] ">
     <div class="drop-shadow-xl text-center rounded-md bg-white">  
         <h1 class="pt-[3rem] inline-block text-center md:text-[16px] text-[14px] select-none">Представся, путник.</h1> 
         <form class="mt-[2rem]" >

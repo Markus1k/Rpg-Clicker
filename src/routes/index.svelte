@@ -22,7 +22,7 @@ import Input from "/src/components/input.svelte";
 
 
 
-<div class="font-body  flex justify-center md:h-[25rem] md:w-[25rem] h-[20rem] w-[20rem] mx-auto mt-[S5rem] ">
+<div class="font-body  flex justify-center md:h-[25rem] md:w-[25rem] h-[20rem] w-[20rem] mx-auto mt-[5rem] ">
     <div class="drop-shadow-xl text-center rounded-md bg-white">  
         <h1 class="pt-[3rem] inline-block text-center md:text-[16px] text-[14px] select-none">Добро пожаловать в Ихтифаль,<br> Приключенец!</h1> 
         <form class="mt-[2rem]">
